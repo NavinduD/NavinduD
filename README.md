@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Navindu Rathnayaka 
 
 # 💫 About Me:
 🚀 UI/UX Designer & Full-Stack Developer<br>📱 Android Developer<br>⚙️ Passionate Problem-Solver<br>📚 Lifelong Learner
